@@ -5,8 +5,8 @@
 ---
 
 Email : ls65123@naver.com</br>
-Phone : (+82) 010-****-2810
-blog : https://bsggac3ys.tistory.com/</br>
+Phone : (+82) 010-****-2810</br>
+blog : https://bsggac3ys.tistory.com/
 
 - <b>봉사 활동</b>
   - 가플지우 영도 해변 봉사 [ 2024. 11. 04, 신세계 아이앤씨 ]
