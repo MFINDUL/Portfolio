@@ -36,7 +36,7 @@ blog : [https://bsggac3ys.tistory.com/](https://bsggac3ys.tistory.com/category/%
   - 소리,열,진동 데이터를 이용한 예지보전 프로젝트 진행
   - Tech : LSTM-AE , Language : PYTHON
   - 수행한 역할 : 진동을 이용한 예지보전 모델 개발 ```팀원, 아이디어 제안 및 진동 예지보전 모델 개발 파트```
-  <img src="https://github.com/MFINDUL/Portfolio/blob/main/img/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.JPG" width="100%" heigth="300%"/>
+  <img src="https://github.com/MFINDUL/Portfolio/blob/main/img/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.JPG" width="100%" heigth="30%"/>
 
   
   > 관리자에게 열,진동,소리 데이터에 이상값이 확인되면 텔레그램 문자 메세지를 제공한다.
