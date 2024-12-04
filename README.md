@@ -25,7 +25,7 @@ blog : [https://bsggac3ys.tistory.com/](https://bsggac3ys.tistory.com/category/%
   - 수행한 역할 :  기존 반납앱에 존재하지 않는 킥보드 반납 제약조건 기능 개발  ( 반납 시 사진촬영을 하면 서버에서 YOLO 모델을 통한 예측값으로 법으로 금지된 구역내의 반납을 금지하는 기능을 제공한다. ) ```팀장, 모델 및 제약조건 개발 파트```
   <img src="https://github.com/MFINDUL/Portfolio/blob/main/img/image%20(1).jpg" width="30%" height="30%"/>
   <img src="https://github.com/MFINDUL/Portfolio/blob/main/img/%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98.png" width="30%" height="30%"/>
-  <img src="https://github.com/MFINDUL/Portfolio/blob/main/img/%ED%82%A4%ED%8F%AC%EC%9D%B8%ED%8A%B8.png" width="30%" height="30%"/>
+  <img src="https://github.com/MFINDUL/Portfolio/blob/main/img/%ED%82%A4%ED%8F%AC%EC%9D%B8%ED%8A%B8.png" width="30%" height="20%"/>
   
   > 기존 '킥고잉', '씽씽'등 에서 제공하는 아무곳이나 촬영해도 반납이 되는 것과 달리 YOLO 모델을 통해 킥보드가 법으로 지정된 6가지 구역에 있다면 반납을 금지하고, 다른곳에 주차하는 것을 팝업창으로 알려주는 것으로 구현하였다. 
   
