@@ -39,7 +39,7 @@ blog : [https://bsggac3ys.tistory.com/](https://bsggac3ys.tistory.com/category/%
   <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/faef1ccd-619a-4a86-9e77-08d533ecb5f7" width="30%" heigth="30%"/>
   <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/f4d05421-050f-4510-b24f-7302d0a36242" width="30%" height="30%"/>
   <img src="https://github.com/AnHyeontaek/Portfolio/assets/81468759/8c611f53-c111-4b59-83c3-5f70f001f92c" width="30%" height="30%"/>
-  <img src="http:"
+
   
   > 관리자에게 열,진동,소리 데이터에 이상값이 확인되면 텔레그램 문자 메세지를 제공한다.
 
