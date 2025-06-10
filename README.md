@@ -46,5 +46,5 @@ blog : [https://bsggac3ys.tistory.com/](https://bsggac3ys.tistory.com/category/%
 ### 사용 가능한 언어 :capital_abcd:
 
 - C
-- C++
+- RUST
 - PYTHON
