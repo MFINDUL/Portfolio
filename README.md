@@ -10,7 +10,9 @@ blog : [https://bsggac3ys.tistory.com/](https://bsggac3ys.tistory.com/category/%
 
 - <b>봉사 활동</b>
   - 가플지우 영도 해변 봉사 [ 2024. 11. 04, 신세계 아이앤씨 ]
-
+- <b>자격증</b>
+  - 정보처리기사
+  - adsp
 ### 수상 실적  :boom:
 - <b>수상 실적 :trophy:</b>
   - 2024-디지털 스마트 부산 아카데미 최종 프로젝트 최우수상 수상 ```동의대학교```[ 2024. 11. 20 ]
